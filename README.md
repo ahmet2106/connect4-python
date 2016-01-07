@@ -1,4 +1,4 @@
-# simple connect 4 in python
+# simple connect 4 in python / connect four game in python
 
 This is a simple console edition of the [connect 4](http://en.wikipedia.org/wiki/Connect_Four) game written in python 3.
 
